@@ -1,5 +1,5 @@
 适用于二进制助记词板，从左到右是1-1024的型号
-运行py脚本，生成的bip39_reversed_binary.txt就是对应的点阵图
+运行bip39_reversed_binary_markdown.py脚本，生成点阵图
 
 
 | 索引  | 反转二进制值（图形化）       | 单词     |
